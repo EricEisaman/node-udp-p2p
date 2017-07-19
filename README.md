@@ -1,20 +1,20 @@
 # node-udp-p2p :video_game:
 ____
 
-*Repository for:*
+:gem:*Repository for:*
 
     - Node.js UDP P2P Client 
 
     - Rendevous Server for UDP Hole Punching 
 
-*Roadmap:*
+:gem:*Roadmap:*
 
     - Place Rendevous Server into separate repository.
 
     - Create Electron template for udp-based p2p multiplayer using Lance.gg.
 [Lance.gg](http://lance.gg)
 
-*Notes:*
+:gem:*Notes:*
 
     - P2P Clients are currently stored as separate files with hard-coded secret keys. 
     It will be an exercise for the students to implement a simple CLI for secret key entry.
