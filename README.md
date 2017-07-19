@@ -9,6 +9,6 @@ ____
 
 *Roadmap:*
 
-    - Place Rendevous Server into separate repo.
+    - Place Rendevous Server into separate repository.
 
     - Create Electron template for udp-based p2p multiplayer using Lance.gg
