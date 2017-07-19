@@ -3,9 +3,9 @@ ____
 
 *Repository for:*
 
-    - Node.js UDP P2P Client
+    - Node.js UDP P2P Client :+1:
 
-    - Rendevous Server for UDP Hole Punching
+    - Rendevous Server for UDP Hole Punching :+1:
 
 *Roadmap:*
 
