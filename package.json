@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "author": "SirFizX",
-  "license": "ISC",
+  "license": "GPLv2",
   "dependencies": {
     "koa": "^2.3.0",
     "koa-body": "^2.3.0",
