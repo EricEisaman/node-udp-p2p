@@ -14,7 +14,7 @@ ____
     - Create Electron template for udp-based p2p multiplayer using Lance.gg.
 <a href="http://lance.gg/" target="_blank">Lance.gg</a>
 
-*Note:*
+*Notes:*
 
     - P2P Clients are currently stored as separate files with hard-coded secret keys. 
     It will be an exercise for the students to implement a simple CLI for secret key entry.
