@@ -21,3 +21,4 @@ ____
     - No P2P communication currently exists. 
     It will be an exercise for the students to design a simple transmit and verify message system.
     
+    - Rendevous currently references a local HTTP URL for initial testing. Any production Rendevous Server communication should be via HTTPS.
