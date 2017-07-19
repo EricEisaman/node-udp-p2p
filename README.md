@@ -12,7 +12,7 @@ ____
     - Place Rendevous Server into separate repository.
 
     - Create Electron template for udp-based p2p multiplayer using Lance.gg.
-<a href="http://lance.gg/" target="_blank">Lance.gg</a>
+[Lance.gg](http://lance.gg/){:target="_blank"}
 
 *Notes:*
 
